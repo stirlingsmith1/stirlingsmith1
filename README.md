@@ -16,7 +16,7 @@
 - Languages: JavaScript (ES6+), HTML5, CSS3, Python
 - Frameworks & Libraries: React.js, Next.js, Node.js, 
 - Styling: Bootstrap, Tailwind CSS, Sass/SCSS
-- Tools:** Git, GitHub, Figma, Adobe Creative Suite, JIRA, ServiceNow
+- Tools: Git, GitHub, Figma, Adobe Creative Suite, JIRA, ServiceNow
 - Cloud Platforms: AWS, Azure, Google Cloud
 - Databases: MySQL, MongoDB, Knex.js
 
