@@ -8,7 +8,7 @@
 - 🌟 Passionate about creating beautiful and functional user interfaces.
 - 🔥 Proficient in React, Next.js, HTML5, CSS3, and JavaScript.
 - 🎯 Focused on Web Performance Optimization, Accessibility Compliance, and Cross-Browser Compatibility.
-- 🎨 Skilled in Figma** & Adobe Creative Suite to bring designs to life.
+- 🎨 Skilled in Figma & Adobe Creative Suite to bring designs to life.
 - 🌐 Love working with Git & GitHub in Agile development environments.
 
 🛠️ My Tech Stack
