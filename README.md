@@ -1,7 +1,7 @@
 
  👋 Hi there, I'm Stirling Smith!
 
-👨‍💻 Front-End Developer & 🎨 UI/UX Designer** based in Dallas, TX with 5 years of experience crafting responsive, user-centered web applications.
+👨‍💻 Front-End Developer & 🎨 UI/UX Designer based in Dallas, TX with 5 years of experience crafting responsive, user-centered web applications.
 
 🚀 About Me
 
